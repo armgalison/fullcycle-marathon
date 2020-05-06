@@ -1,0 +1,15 @@
+{
+  "name": "challeng-01",
+  "version": "1.0.0",
+  "description": "vanilla web server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "fullcycle",
+    "marathon"
+  ],
+  "author": "Alison Rafael M. Gonçalves",
+  "license": "MIT"
+}
